@@ -1,6 +1,6 @@
 # Optional, the battle
 
-Blog post forthcoming
+Read the blog post: <http://verhoevenv.github.io/2016/08/30/TIL-Optional-map.html>
 
 # Usage
 
